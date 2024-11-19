@@ -1,0 +1,767 @@
+# Water Pollution Data Manifest 
+
+## Column Overview
+
+### Country
+
+Parameters:
+
+- Afghanistan
+- Albania
+- Algeria
+- American Samoa
+- Andorra
+- Angola
+- Antigua and Barbuda
+- Argentina
+- Armenia
+- Aruba
+- Australia
+- Austria
+- Azerbaijan
+- Bahamas
+- Bahrain
+- Bangladesh
+- Barbados
+- Belarus
+- Belgium
+- Belize
+- Benin
+- Bermuda
+- Bhutan
+- Bolivia
+- Bosnia and Herzegovina
+- Botswana
+- Brazil
+- British Virgin Islands
+- Brunei Darussalam
+- Bulgaria
+- Burkina Faso
+- Burundi
+- Cabo Verde
+- Cambodia
+- Cameroon
+- Canada
+- Cayman Islands
+- Central African Republic
+- Chad
+- Channel Islands
+- Chile
+- China
+- Colombia
+- Comoros
+- Democratic Republic of the Congo
+- Republic of the Congo
+- Costa Rica
+- Cote d'Ivoire
+- Croatia
+- Cuba
+- Curacao
+- Cyprus
+- Czechia
+- Denmark
+- Djibouti
+- Dominica
+- Dominican Republic
+- Ecuador
+- Egypt
+- El Salvador
+- Equatorial Guinea
+- Eritrea
+- Estonia
+- Eswatini
+- Ethiopia
+- Faroe Islands
+- Fiji
+- Finland
+- France
+- French Polynesia
+- Gabon
+- Gambia
+- Georgia
+- Germany
+- Ghana
+- Gibraltar
+- Greece
+- Greenland
+- Grenada
+- Guam
+- Guatemala
+- Guinea
+- Guinea-Bissau
+- Guyana
+- Haiti
+- Honduras
+- Hong Kong SAR
+- Hungary
+- Iceland
+- India
+- Indonesia
+- Iran
+- Iraq
+- Ireland
+- Isle of Man
+- Israel
+- Italy
+- Jamaica
+- Japan
+- Jordan
+- Kazakhstan
+- Kenya
+- Kiribati
+- North Korea
+- South Korea
+- Kosovo
+- Kuwait
+- Kyrgyz Republic
+- Lao
+- Latvia
+- Lebanon
+- Lesotho
+- Liberia
+- Libya
+- Liechtenstein
+- Lithuania
+- Luxembourg
+- Macao
+- Madagascar
+- Malawi
+- Malaysia
+- Maldives
+- Mali
+- Malta
+- Marshall Islands
+- Mauritania
+- Mauritius
+- Mexico
+- Micronesia
+- Moldova
+- Monaco
+- Mongolia
+- Montenegro
+- Morocco
+- Mozambique
+- Myanmar
+- Namibia
+- Nauru
+- Nepal
+- Netherlands
+- New Caledonia
+- New Zealand
+- Nicaragua
+- Niger
+- Nigeria
+- North Macedonia
+- Northern Mariana Islands
+- Norway
+- Oman
+- Pakistan
+- Palau
+- Panama
+- Papua New Guinea
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Puerto Rico
+- Qatar
+- Romania
+- Russian Federation
+- Rwanda
+- Samoa
+- San Marino
+- Sao Tome and Principe
+- Saudi Arabia
+- Senegal
+- Serbia
+- Seychelles
+- Sierra Leone
+- Singapore
+- St. Maarten (Dutch part)
+- Slovak Republic
+- Slovenia
+- Solomon Islands
+- Somalia
+- South Africa
+- South Sudan
+- Spain
+- Sri Lanka
+- St. Kitts and Nevis
+- St. Lucia
+- St. Martin (French part)
+- St. Vincent and the Grenadines
+- Sudan
+- Suriname
+- Sweden
+- Switzerland
+- Syria
+- Taiwan
+- Tajikistan
+- Tanzania
+- Thailand
+- Timor-Leste
+- Togo
+- Tonga
+- Trinidad and Tobago
+- Tunisia
+- Turkiye
+- Turkmenistan
+- Turks and Caicos Islands
+- Tuvalu
+- Uganda
+- Ukraine
+- United Arab Emirates
+- United Kingdom
+- United States
+- Uruguay
+- Uzbekistan
+- Vanuatu
+- Venezuela
+- Vietnam
+- Virgin Islands (U.S.)
+- West Bank and Gaza
+- Yemen
+- Zambia
+- Zimbabwe
+
+### Category
+
+Parameters:
+
+- Phosphorus
+- Nitrogen
+- Ag(I)
+- As(III)
+- As(V)
+- Ba(II)
+- Be(II)
+- Cd(II)
+- Co(II)
+- Cr(III)
+- Cr(VI)
+- Cu(II)
+- Hg(II)
+- Mo(VI)
+- Ni(II)
+- Pb(II)
+- Sb(III)
+- Sb(V)
+- Se(IV)
+- Tl(I)
+- V(V)
+- Zn(II)
+- 1,2-dichlorobenzene
+- 1,2-dichloroethane
+- 1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE
+- 1,3-Dichloropropene
+- 1,4-dichlorobenzene
+- 2-(2,4-dichlorophenoxy)acetic acid
+- 2,4,6-trichlorophenol
+- 2-CHLOROPHENOL
+- 3-Methylcholanthrene
+- 4-CHLOROANILINE
+- 7,12-Dimethylbenz(a)anthracene
+- Acenapthene
+- ACEPHATE
+- ACETAMIDE,
+- Albuterol
+- Aldicarb
+- aniline
+- anthracene
+- ANTIPYRINE
+- Atrazine
+- benzene
+- Benzidine
+- benzo[a]pyrene
+- Bezafibrate
+- butyl benzyl phthalate 
+- butyl benzyl phthalate
+- Carbamazepine
+- chlorobenzene
+- Chloropyrifos
+- Chlorothalonil
+- CYANAZINE
+- CYPERMETHRIN
+- DEF
+- di-(2-ethylhexyl)-phthalate (DEHP)
+- Diazinon
+- Dibenz(a,h)anthracene
+- Dicamba
+- dichloromethane/methylenechloride (CH2Cl2) 
+- Diclofenac
+- Dicrotophos
+- Ethephon
+- fluoranthene
+- fluorene
+- Fluvastatin
+- FUROSEMIDE
+- Gemfibrozil
+- GLUFOSINATE-AMMONIUM
+- Glyphosate
+- INDOMETHACIN
+- Iopromide
+- Malathion
+- Mancozeb
+- Methyl Bromide
+- Metolachlor
+- Metoprolol
+- METRONIDAZOLE
+- Naled
+- NALIDIXIC ACID
+- naphthalene
+- OXOLINIC ACID
+- Paraquat
+- Parathion-methyl
+- Pendimethalin
+- pentachlorophenol
+- Phorate
+- Propanil
+- pyrene
+- Pyrene, 1-nitro-
+- Sulfamethoxazole
+- Terbutaline
+- tetrachloroethylene
+- THIABENDAZOLE
+- TRI-2-CHLOROETHYL PHOSPHATE
+- trichloroethylene
+- trifluralin
+- TRIMETHOPRIM
+- Tris (2,3-dibromopropyl) phosphate
+- trrichloromethane/chloroform (CHCl3)
+- Warfarin
+- PAHs
+- Pesticides
+- Antimony
+- Arsenic
+- Barium
+- Beryllium
+- Cadmium
+- Chromium
+- Cobalt
+- Copper
+- Lead
+- Mercury
+- Molybdenum
+- Nickel
+- Silver
+- Thallium
+- Vanadium
+- Zinc
+- Analgesics, anesthetics & NSAIDs
+- Antibiotics
+- Anticoagulants
+- Antihelminthics
+- Antihyperlipidemic agents
+- Beta-agonists
+- Beta-blockers
+- Contrast agents
+- Diuretics
+- Psychiatric drugs
+
+### Location
+
+Parameters:
+
+- N/A for this Category
+- Freshwater
+- Seawater
+- Unspecified
+
+### Impact
+
+Parameters:
+
+- Eutrophication
+- Health
+
+### Units
+
+Parameters:
+
+- /kg
+
+### Reference
+
+Parameters:
+
+- Water Pollution_Phosphorus_N/A for this Category_Eutrophication
+- Water Pollution_Nitrogen_N/A for this Category_Eutrophication
+- Water Pollution_Ag(I)_Freshwater_Health
+- Water Pollution_Ag(I)_Seawater_Health
+- Water Pollution_Ag(I)_Unspecified_Health
+- Water Pollution_As(III)_Freshwater_Health
+- Water Pollution_As(III)_Seawater_Health
+- Water Pollution_As(III)_Unspecified_Health
+- Water Pollution_As(V)_Freshwater_Health
+- Water Pollution_As(V)_Seawater_Health
+- Water Pollution_As(V)_Unspecified_Health
+- Water Pollution_Ba(II)_Freshwater_Health
+- Water Pollution_Ba(II)_Seawater_Health
+- Water Pollution_Ba(II)_Unspecified_Health
+- Water Pollution_Be(II)_Freshwater_Health
+- Water Pollution_Be(II)_Seawater_Health
+- Water Pollution_Be(II)_Unspecified_Health
+- Water Pollution_Cd(II)_Freshwater_Health
+- Water Pollution_Cd(II)_Seawater_Health
+- Water Pollution_Cd(II)_Unspecified_Health
+- Water Pollution_Co(II)_Freshwater_Health
+- Water Pollution_Co(II)_Seawater_Health
+- Water Pollution_Co(II)_Unspecified_Health
+- Water Pollution_Cr(III)_Freshwater_Health
+- Water Pollution_Cr(III)_Seawater_Health
+- Water Pollution_Cr(III)_Unspecified_Health
+- Water Pollution_Cr(VI)_Freshwater_Health
+- Water Pollution_Cr(VI)_Seawater_Health
+- Water Pollution_Cr(VI)_Unspecified_Health
+- Water Pollution_Cu(II)_Freshwater_Health
+- Water Pollution_Cu(II)_Seawater_Health
+- Water Pollution_Cu(II)_Unspecified_Health
+- Water Pollution_Hg(II)_Freshwater_Health
+- Water Pollution_Hg(II)_Seawater_Health
+- Water Pollution_Hg(II)_Unspecified_Health
+- Water Pollution_Mo(VI)_Freshwater_Health
+- Water Pollution_Mo(VI)_Seawater_Health
+- Water Pollution_Mo(VI)_Unspecified_Health
+- Water Pollution_Ni(II)_Freshwater_Health
+- Water Pollution_Ni(II)_Seawater_Health
+- Water Pollution_Ni(II)_Unspecified_Health
+- Water Pollution_Pb(II)_Freshwater_Health
+- Water Pollution_Pb(II)_Seawater_Health
+- Water Pollution_Pb(II)_Unspecified_Health
+- Water Pollution_Sb(III)_Freshwater_Health
+- Water Pollution_Sb(III)_Seawater_Health
+- Water Pollution_Sb(III)_Unspecified_Health
+- Water Pollution_Sb(V)_Freshwater_Health
+- Water Pollution_Sb(V)_Seawater_Health
+- Water Pollution_Sb(V)_Unspecified_Health
+- Water Pollution_Se(IV)_Freshwater_Health
+- Water Pollution_Se(IV)_Seawater_Health
+- Water Pollution_Se(IV)_Unspecified_Health
+- Water Pollution_Tl(I)_Freshwater_Health
+- Water Pollution_Tl(I)_Seawater_Health
+- Water Pollution_Tl(I)_Unspecified_Health
+- Water Pollution_V(V)_Freshwater_Health
+- Water Pollution_V(V)_Seawater_Health
+- Water Pollution_V(V)_Unspecified_Health
+- Water Pollution_Zn(II)_Freshwater_Health
+- Water Pollution_Zn(II)_Seawater_Health
+- Water Pollution_Zn(II)_Unspecified_Health
+- Water Pollution_1,2-dichlorobenzene_Freshwater_Health
+- Water Pollution_1,2-dichlorobenzene_Seawater_Health
+- Water Pollution_1,2-dichlorobenzene_Unspecified_Health
+- Water Pollution_1,2-dichloroethane_Freshwater_Health
+- Water Pollution_1,2-dichloroethane_Seawater_Health
+- Water Pollution_1,2-dichloroethane_Unspecified_Health
+- Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Freshwater_Health
+- Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Seawater_Health
+- Water Pollution_1,2-DIMETHYL-5-NITRO-1H-IMIDAZOLE_Unspecified_Health
+- Water Pollution_1,3-Dichloropropene_Freshwater_Health
+- Water Pollution_1,3-Dichloropropene_Seawater_Health
+- Water Pollution_1,3-Dichloropropene_Unspecified_Health
+- Water Pollution_1,4-dichlorobenzene_Freshwater_Health
+- Water Pollution_1,4-dichlorobenzene_Seawater_Health
+- Water Pollution_1,4-dichlorobenzene_Unspecified_Health
+- Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Freshwater_Health
+- Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Seawater_Health
+- Water Pollution_2-(2,4-dichlorophenoxy)acetic acid_Unspecified_Health
+- Water Pollution_2,4,6-trichlorophenol_Freshwater_Health
+- Water Pollution_2,4,6-trichlorophenol_Seawater_Health
+- Water Pollution_2,4,6-trichlorophenol_Unspecified_Health
+- Water Pollution_2-CHLOROPHENOL_Freshwater_Health
+- Water Pollution_2-CHLOROPHENOL_Seawater_Health
+- Water Pollution_2-CHLOROPHENOL_Unspecified_Health
+- Water Pollution_3-Methylcholanthrene_Freshwater_Health
+- Water Pollution_3-Methylcholanthrene_Seawater_Health
+- Water Pollution_3-Methylcholanthrene_Unspecified_Health
+- Water Pollution_4-CHLOROANILINE_Freshwater_Health
+- Water Pollution_4-CHLOROANILINE_Seawater_Health
+- Water Pollution_4-CHLOROANILINE_Unspecified_Health
+- Water Pollution_7,12-Dimethylbenz(a)anthracene_Freshwater_Health
+- Water Pollution_7,12-Dimethylbenz(a)anthracene_Seawater_Health
+- Water Pollution_7,12-Dimethylbenz(a)anthracene_Unspecified_Health
+- Water Pollution_Acenapthene_Freshwater_Health
+- Water Pollution_Acenapthene_Seawater_Health
+- Water Pollution_Acenapthene_Unspecified_Health
+- Water Pollution_ACEPHATE_Freshwater_Health
+- Water Pollution_ACEPHATE_Seawater_Health
+- Water Pollution_ACEPHATE_Unspecified_Health
+- Water Pollution_ACETAMIDE,_Freshwater_Health
+- Water Pollution_ACETAMIDE,_Seawater_Health
+- Water Pollution_ACETAMIDE,_Unspecified_Health
+- Water Pollution_Albuterol_Freshwater_Health
+- Water Pollution_Albuterol_Seawater_Health
+- Water Pollution_Albuterol_Unspecified_Health
+- Water Pollution_Aldicarb_Freshwater_Health
+- Water Pollution_Aldicarb_Seawater_Health
+- Water Pollution_Aldicarb_Unspecified_Health
+- Water Pollution_aniline_Freshwater_Health
+- Water Pollution_aniline_Seawater_Health
+- Water Pollution_aniline_Unspecified_Health
+- Water Pollution_anthracene_Freshwater_Health
+- Water Pollution_anthracene_Seawater_Health
+- Water Pollution_anthracene_Unspecified_Health
+- Water Pollution_ANTIPYRINE_Freshwater_Health
+- Water Pollution_ANTIPYRINE_Seawater_Health
+- Water Pollution_ANTIPYRINE_Unspecified_Health
+- Water Pollution_Atrazine_Freshwater_Health
+- Water Pollution_Atrazine_Seawater_Health
+- Water Pollution_Atrazine_Unspecified_Health
+- Water Pollution_benzene_Freshwater_Health
+- Water Pollution_benzene_Seawater_Health
+- Water Pollution_benzene_Unspecified_Health
+- Water Pollution_Benzidine_Freshwater_Health
+- Water Pollution_Benzidine_Seawater_Health
+- Water Pollution_Benzidine_Unspecified_Health
+- Water Pollution_benzo[a]pyrene_Freshwater_Health
+- Water Pollution_benzo[a]pyrene_Seawater_Health
+- Water Pollution_benzo[a]pyrene_Unspecified_Health
+- Water Pollution_Bezafibrate_Freshwater_Health
+- Water Pollution_Bezafibrate_Seawater_Health
+- Water Pollution_Bezafibrate_Unspecified_Health
+- Water Pollution_butyl benzyl phthalate _Freshwater_Health
+- Water Pollution_butyl benzyl phthalate _Seawater_Health
+- Water Pollution_butyl benzyl phthalate_Unspecified_Health
+- Water Pollution_Carbamazepine_Freshwater_Health
+- Water Pollution_Carbamazepine_Seawater_Health
+- Water Pollution_Carbamazepine_Unspecified_Health
+- Water Pollution_chlorobenzene_Freshwater_Health
+- Water Pollution_chlorobenzene_Seawater_Health
+- Water Pollution_chlorobenzene_Unspecified_Health
+- Water Pollution_Chloropyrifos_Freshwater_Health
+- Water Pollution_Chloropyrifos_Seawater_Health
+- Water Pollution_Chloropyrifos_Unspecified_Health
+- Water Pollution_Chlorothalonil_Freshwater_Health
+- Water Pollution_Chlorothalonil_Seawater_Health
+- Water Pollution_Chlorothalonil_Unspecified_Health
+- Water Pollution_CYANAZINE_Freshwater_Health
+- Water Pollution_CYANAZINE_Seawater_Health
+- Water Pollution_CYANAZINE_Unspecified_Health
+- Water Pollution_CYPERMETHRIN_Freshwater_Health
+- Water Pollution_CYPERMETHRIN_Seawater_Health
+- Water Pollution_CYPERMETHRIN_Unspecified_Health
+- Water Pollution_DEF_Freshwater_Health
+- Water Pollution_DEF_Seawater_Health
+- Water Pollution_DEF_Unspecified_Health
+- Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Freshwater_Health
+- Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Seawater_Health
+- Water Pollution_di-(2-ethylhexyl)-phthalate (DEHP)_Unspecified_Health
+- Water Pollution_Diazinon_Freshwater_Health
+- Water Pollution_Diazinon_Seawater_Health
+- Water Pollution_Diazinon_Unspecified_Health
+- Water Pollution_Dibenz(a,h)anthracene_Freshwater_Health
+- Water Pollution_Dibenz(a,h)anthracene_Seawater_Health
+- Water Pollution_Dibenz(a,h)anthracene_Unspecified_Health
+- Water Pollution_Dicamba_Freshwater_Health
+- Water Pollution_Dicamba_Seawater_Health
+- Water Pollution_Dicamba_Unspecified_Health
+- Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Freshwater_Health
+- Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Seawater_Health
+- Water Pollution_dichloromethane/methylenechloride (CH2Cl2) _Unspecified_Health
+- Water Pollution_Diclofenac_Freshwater_Health
+- Water Pollution_Diclofenac_Seawater_Health
+- Water Pollution_Diclofenac_Unspecified_Health
+- Water Pollution_Dicrotophos_Freshwater_Health
+- Water Pollution_Dicrotophos_Seawater_Health
+- Water Pollution_Dicrotophos_Unspecified_Health
+- Water Pollution_Ethephon_Freshwater_Health
+- Water Pollution_Ethephon_Seawater_Health
+- Water Pollution_Ethephon_Unspecified_Health
+- Water Pollution_fluoranthene_Freshwater_Health
+- Water Pollution_fluoranthene_Seawater_Health
+- Water Pollution_fluoranthene_Unspecified_Health
+- Water Pollution_fluorene_Freshwater_Health
+- Water Pollution_fluorene_Seawater_Health
+- Water Pollution_fluorene_Unspecified_Health
+- Water Pollution_Fluvastatin_Freshwater_Health
+- Water Pollution_Fluvastatin_Seawater_Health
+- Water Pollution_Fluvastatin_Unspecified_Health
+- Water Pollution_FUROSEMIDE_Freshwater_Health
+- Water Pollution_FUROSEMIDE_Seawater_Health
+- Water Pollution_FUROSEMIDE_Unspecified_Health
+- Water Pollution_Gemfibrozil_Freshwater_Health
+- Water Pollution_Gemfibrozil_Seawater_Health
+- Water Pollution_Gemfibrozil_Unspecified_Health
+- Water Pollution_GLUFOSINATE-AMMONIUM_Freshwater_Health
+- Water Pollution_GLUFOSINATE-AMMONIUM_Seawater_Health
+- Water Pollution_GLUFOSINATE-AMMONIUM_Unspecified_Health
+- Water Pollution_Glyphosate_Freshwater_Health
+- Water Pollution_Glyphosate_Seawater_Health
+- Water Pollution_Glyphosate_Unspecified_Health
+- Water Pollution_INDOMETHACIN_Freshwater_Health
+- Water Pollution_INDOMETHACIN_Seawater_Health
+- Water Pollution_INDOMETHACIN_Unspecified_Health
+- Water Pollution_Iopromide_Freshwater_Health
+- Water Pollution_Iopromide_Seawater_Health
+- Water Pollution_Iopromide_Unspecified_Health
+- Water Pollution_Malathion_Freshwater_Health
+- Water Pollution_Malathion_Seawater_Health
+- Water Pollution_Malathion_Unspecified_Health
+- Water Pollution_Mancozeb_Freshwater_Health
+- Water Pollution_Mancozeb_Seawater_Health
+- Water Pollution_Mancozeb_Unspecified_Health
+- Water Pollution_Methyl Bromide_Freshwater_Health
+- Water Pollution_Methyl Bromide_Seawater_Health
+- Water Pollution_Methyl Bromide_Unspecified_Health
+- Water Pollution_Metolachlor_Freshwater_Health
+- Water Pollution_Metolachlor_Seawater_Health
+- Water Pollution_Metolachlor_Unspecified_Health
+- Water Pollution_Metoprolol_Freshwater_Health
+- Water Pollution_Metoprolol_Seawater_Health
+- Water Pollution_Metoprolol_Unspecified_Health
+- Water Pollution_METRONIDAZOLE_Freshwater_Health
+- Water Pollution_METRONIDAZOLE_Seawater_Health
+- Water Pollution_METRONIDAZOLE_Unspecified_Health
+- Water Pollution_Naled_Freshwater_Health
+- Water Pollution_Naled_Seawater_Health
+- Water Pollution_Naled_Unspecified_Health
+- Water Pollution_NALIDIXIC ACID_Freshwater_Health
+- Water Pollution_NALIDIXIC ACID_Seawater_Health
+- Water Pollution_NALIDIXIC ACID_Unspecified_Health
+- Water Pollution_naphthalene_Freshwater_Health
+- Water Pollution_naphthalene_Seawater_Health
+- Water Pollution_naphthalene_Unspecified_Health
+- Water Pollution_OXOLINIC ACID_Freshwater_Health
+- Water Pollution_OXOLINIC ACID_Seawater_Health
+- Water Pollution_OXOLINIC ACID_Unspecified_Health
+- Water Pollution_Paraquat_Freshwater_Health
+- Water Pollution_Paraquat_Seawater_Health
+- Water Pollution_Paraquat_Unspecified_Health
+- Water Pollution_Parathion-methyl_Freshwater_Health
+- Water Pollution_Parathion-methyl_Seawater_Health
+- Water Pollution_Parathion-methyl_Unspecified_Health
+- Water Pollution_Pendimethalin_Freshwater_Health
+- Water Pollution_Pendimethalin_Seawater_Health
+- Water Pollution_Pendimethalin_Unspecified_Health
+- Water Pollution_pentachlorophenol_Freshwater_Health
+- Water Pollution_pentachlorophenol_Seawater_Health
+- Water Pollution_pentachlorophenol_Unspecified_Health
+- Water Pollution_Phorate_Freshwater_Health
+- Water Pollution_Phorate_Seawater_Health
+- Water Pollution_Phorate_Unspecified_Health
+- Water Pollution_Propanil_Freshwater_Health
+- Water Pollution_Propanil_Seawater_Health
+- Water Pollution_Propanil_Unspecified_Health
+- Water Pollution_pyrene_Freshwater_Health
+- Water Pollution_pyrene_Seawater_Health
+- Water Pollution_pyrene_Unspecified_Health
+- Water Pollution_Pyrene, 1-nitro-_Freshwater_Health
+- Water Pollution_Pyrene, 1-nitro-_Seawater_Health
+- Water Pollution_Pyrene, 1-nitro-_Unspecified_Health
+- Water Pollution_Sulfamethoxazole_Freshwater_Health
+- Water Pollution_Sulfamethoxazole_Seawater_Health
+- Water Pollution_Sulfamethoxazole_Unspecified_Health
+- Water Pollution_Terbutaline_Freshwater_Health
+- Water Pollution_Terbutaline_Seawater_Health
+- Water Pollution_Terbutaline_Unspecified_Health
+- Water Pollution_tetrachloroethylene_Freshwater_Health
+- Water Pollution_tetrachloroethylene_Seawater_Health
+- Water Pollution_tetrachloroethylene_Unspecified_Health
+- Water Pollution_THIABENDAZOLE_Freshwater_Health
+- Water Pollution_THIABENDAZOLE_Seawater_Health
+- Water Pollution_THIABENDAZOLE_Unspecified_Health
+- Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Freshwater_Health
+- Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Seawater_Health
+- Water Pollution_TRI-2-CHLOROETHYL PHOSPHATE_Unspecified_Health
+- Water Pollution_trichloroethylene_Freshwater_Health
+- Water Pollution_trichloroethylene_Seawater_Health
+- Water Pollution_trichloroethylene_Unspecified_Health
+- Water Pollution_trifluralin_Freshwater_Health
+- Water Pollution_trifluralin_Seawater_Health
+- Water Pollution_trifluralin_Unspecified_Health
+- Water Pollution_TRIMETHOPRIM_Freshwater_Health
+- Water Pollution_TRIMETHOPRIM_Seawater_Health
+- Water Pollution_TRIMETHOPRIM_Unspecified_Health
+- Water Pollution_Tris (2,3-dibromopropyl) phosphate_Freshwater_Health
+- Water Pollution_Tris (2,3-dibromopropyl) phosphate_Seawater_Health
+- Water Pollution_Tris (2,3-dibromopropyl) phosphate_Unspecified_Health
+- Water Pollution_trrichloromethane/chloroform (CHCl3)_Freshwater_Health
+- Water Pollution_trrichloromethane/chloroform (CHCl3)_Seawater_Health
+- Water Pollution_trrichloromethane/chloroform (CHCl3)_Unspecified_Health
+- Water Pollution_Warfarin_Freshwater_Health
+- Water Pollution_Warfarin_Seawater_Health
+- Water Pollution_Warfarin_Unspecified_Health
+- Water Pollution_PAHs_Freshwater_Health
+- Water Pollution_PAHs_Seawater_Health
+- Water Pollution_PAHs_Unspecified_Health
+- Water Pollution_Pesticides_Freshwater_Health
+- Water Pollution_Pesticides_Seawater_Health
+- Water Pollution_Pesticides_Unspecified_Health
+- Water Pollution_Antimony_Freshwater_Health
+- Water Pollution_Antimony_Seawater_Health
+- Water Pollution_Antimony_Unspecified_Health
+- Water Pollution_Arsenic_Freshwater_Health
+- Water Pollution_Arsenic_Seawater_Health
+- Water Pollution_Arsenic_Unspecified_Health
+- Water Pollution_Barium_Freshwater_Health
+- Water Pollution_Barium_Seawater_Health
+- Water Pollution_Barium_Unspecified_Health
+- Water Pollution_Beryllium_Freshwater_Health
+- Water Pollution_Beryllium_Seawater_Health
+- Water Pollution_Beryllium_Unspecified_Health
+- Water Pollution_Cadmium_Freshwater_Health
+- Water Pollution_Cadmium_Seawater_Health
+- Water Pollution_Cadmium_Unspecified_Health
+- Water Pollution_Chromium_Freshwater_Health
+- Water Pollution_Chromium_Seawater_Health
+- Water Pollution_Chromium_Unspecified_Health
+- Water Pollution_Cobalt_Freshwater_Health
+- Water Pollution_Cobalt_Seawater_Health
+- Water Pollution_Cobalt_Unspecified_Health
+- Water Pollution_Copper_Freshwater_Health
+- Water Pollution_Copper_Seawater_Health
+- Water Pollution_Copper_Unspecified_Health
+- Water Pollution_Lead_Freshwater_Health
+- Water Pollution_Lead_Seawater_Health
+- Water Pollution_Lead_Unspecified_Health
+- Water Pollution_Mercury_Freshwater_Health
+- Water Pollution_Mercury_Seawater_Health
+- Water Pollution_Mercury_Unspecified_Health
+- Water Pollution_Molybdenum_Freshwater_Health
+- Water Pollution_Molybdenum_Seawater_Health
+- Water Pollution_Molybdenum_Unspecified_Health
+- Water Pollution_Nickel_Freshwater_Health
+- Water Pollution_Nickel_Seawater_Health
+- Water Pollution_Nickel_Unspecified_Health
+- Water Pollution_Silver_Freshwater_Health
+- Water Pollution_Silver_Seawater_Health
+- Water Pollution_Silver_Unspecified_Health
+- Water Pollution_Thallium_Freshwater_Health
+- Water Pollution_Thallium_Seawater_Health
+- Water Pollution_Thallium_Unspecified_Health
+- Water Pollution_Vanadium_Freshwater_Health
+- Water Pollution_Vanadium_Seawater_Health
+- Water Pollution_Vanadium_Unspecified_Health
+- Water Pollution_Zinc_Freshwater_Health
+- Water Pollution_Zinc_Seawater_Health
+- Water Pollution_Zinc_Unspecified_Health
+- Water Pollution_Analgesics, anesthetics & NSAIDs_Freshwater_Health
+- Water Pollution_Analgesics, anesthetics & NSAIDs_Seawater_Health
+- Water Pollution_Analgesics, anesthetics & NSAIDs_Unspecified_Health
+- Water Pollution_Antibiotics_Seawater_Health
+- Water Pollution_Antibiotics_Unspecified_Health
+- Water Pollution_Anticoagulants_Freshwater_Health
+- Water Pollution_Anticoagulants_Seawater_Health
+- Water Pollution_Anticoagulants_Unspecified_Health
+- Water Pollution_Antihelminthics_Freshwater_Health
+- Water Pollution_Antihelminthics_Seawater_Health
+- Water Pollution_Antihelminthics_Unspecified_Health
+- Water Pollution_Antihyperlipidemic agents_Freshwater_Health
+- Water Pollution_Antihyperlipidemic agents_Seawater_Health
+- Water Pollution_Antihyperlipidemic agents_Unspecified_Health
+- Water Pollution_Beta-agonists_Freshwater_Health
+- Water Pollution_Beta-agonists_Seawater_Health
+- Water Pollution_Beta-agonists_Unspecified_Health
+- Water Pollution_Beta-blockers_Freshwater_Health
+- Water Pollution_Beta-blockers_Seawater_Health
+- Water Pollution_Beta-blockers_Unspecified_Health
+- Water Pollution_Contrast agents_Freshwater_Health
+- Water Pollution_Contrast agents_Seawater_Health
+- Water Pollution_Contrast agents_Unspecified_Health
+- Water Pollution_Diuretics_Freshwater_Health
+- Water Pollution_Diuretics_Seawater_Health
+- Water Pollution_Diuretics_Unspecified_Health
+- Water Pollution_Psychiatric drugs_Freshwater_Health
+- Water Pollution_Psychiatric drugs_Seawater_Health
+- Water Pollution_Psychiatric drugs_Unspecified_Health
+
