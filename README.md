@@ -1,3 +1,6 @@
+---
+title: "Readme (Github)"
+---
 # About The Global Value Factors Explorer Dataset
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-blue)](https://gvfd-analysis.bydanielrosehill.com/)
